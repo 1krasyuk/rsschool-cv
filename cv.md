@@ -19,8 +19,12 @@ I aim to build a solid foundation for future learning and to start my journey as
 
 ## Skills 
 
-* HTML, CSS
-* JavaScript, TypeSript, Python, C#
+* HTML
+* CSS (TailwindCSS, Bootstrap)
+* JavaScript (Fundamentals, ES6+),
+* TypeSript
+* Python
+* C#
 * React
 * Git, GitHub
 * Photoshop, Illustrator, Premiere Pro, After Effects, Blender, Figma, VS Code
@@ -44,5 +48,7 @@ alert( result );
   * [HTML/CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=ST6MT103124)
   * [JavaScript](https://www.udemy.com/course/the-complete-javascript-course/) _in progress..._
 
- ## English language
- **Upper-Intermediate (CEFR B2)** 
+ ## Languages
+ * **Russian** - Native language
+
+ * **Upper-Intermediate (CEFR B2)** 
