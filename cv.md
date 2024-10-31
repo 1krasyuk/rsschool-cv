@@ -31,12 +31,12 @@ I aim to build a solid foundation for future learning and to start my journey as
 
 ## Code Example
 ```
-function sum(a, b) {
-  return a + b;
-}
+function bmi(weight, height) {
 
-let result = sum(1, 2);
-alert( result );
+  const bmi = weight/(height*height);
+  
+  return bmi <= 18 ? 'underweight': bmi <= 25 ? 'normal': bmi <= 30 ? 'overweight';
+}
 ```
 
 ## Expirience
