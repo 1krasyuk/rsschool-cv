@@ -3,9 +3,9 @@
 ## Contact information:
 **E-mail:** evgeniyk687@gmail.com
 
-**Telegram:** @zkrasyuk
+**Telegram:** [@zkrasyuk](https://t.me/zkrasyuk)
 
-[instagram](https://www.instagram.com/z.krasyuk/)
+**Instagram:** [@zkrasyuk](https://www.instagram.com/z.krasyuk/)
 
 ## Briefly about myself:
 
@@ -43,10 +43,11 @@ function bmi(weight, height) {
 
 ## Education
 
-*__College:__ Moscow College of Entrepreneurship, Information Systems and Programming
-*__Udemy__ 
+  __College:__ Moscow College of Entrepreneurship, Information Systems and Programming
+  
+  __Udemy__ 
   * [HTML/CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=ST6MT103124)
-  * [JavaScript](https://www.udemy.com/course/the-complete-javascript-course/) _in progress..._
+  *  [JavaScript](https://www.udemy.com/course/the-complete-javascript-course/) _in progress..._
 
  ## Languages
  * **Russian** - Native language
